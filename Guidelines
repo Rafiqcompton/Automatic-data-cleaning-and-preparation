@@ -1,0 +1,3 @@
+When using this algorithm, it is important to keep in mind that it is not perfect.
+It is possible that the algorithm may miss some data quality issues or that it may introduce new errors into the data.
+It is important to review the cleaned data carefully before using it.
